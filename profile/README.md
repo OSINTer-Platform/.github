@@ -2,13 +2,13 @@
 [![OSINTer](https://raw.githubusercontent.com/OSINTer-Platform/OSINTer/master/logo/full.png)](https://osinter.dk)
 
 ## Contributing
-While OSINTer is currently unfortunately not open-source we highly encourage
-any form of contributing. Should you want to contribute, then please get in
+As OSINTer is open-source we highly encourage
+any form of contributing. Should you want to contribute, then please get involved with this GitHub or get in
 contact either at contact@osinter.dk or on the Github repos (if you are reading
 this on Gitlab, then that is simply a downstream mirror).
 
 ## Introduction
-OSINTer is a - previously open-source, now just source-available - intelligence
+OSINTer is an open-source intelligence
 gathering tool, designed to ease the intelligence gathering process by scraping
 reliable intelligence news sources, and presenting them in an easy to navigate
 UI, hosted as a web-application, to allow intelligence analysts to handle large
@@ -57,7 +57,7 @@ archived content is available as downloadable Markdown files that users can
 import into any Markdown editor for evaluation. It also enables user
 customization and integration with third-party utilities.
 
-Additionally, OSINTer uses proprietary machine learning pipelines to better
+Additionally, OSINTer uses machine learning pipelines to better
 handle and organize the large volume of data collected, making it even more
 user-friendly and efficient. 
 
